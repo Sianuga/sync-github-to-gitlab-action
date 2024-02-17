@@ -1,4 +1,4 @@
-name: "Sync GitHub to GitLab Action"
+name: "Gitlab Syncah"
 description: "A Github Action which will sync a GitHub repository to GitLab as a mirror."
 inputs:
   destination_repository:
